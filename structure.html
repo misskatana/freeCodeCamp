@@ -1,4 +1,4 @@
-<!-- Use HTML5 to Require a Field -->
+<!-- Create a Set of Radio Buttons -->
 
 <h2>CatPhotoApp</h2>
 <main>
@@ -22,5 +22,11 @@
     <form action="/submit-cat-photo">
         <input type="text" placeholder="cat photo URL" required>
         <button type="submit">Submit</button>
+        <label for="indoor"> 
+            <input id="indoor" type="radio" name="indoor-outdoor">Indoor 
+        </label>
+        <label for="outdoor"> 
+            <input id="outdoor" type="radio" name="indoor-outdoor">Outdoor 
+        </label>
     </form>
 </main>
