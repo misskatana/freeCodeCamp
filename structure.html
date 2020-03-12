@@ -1,4 +1,4 @@
-<!-- Check Radio Buttons and Checkboxes by Default -->
+<!-- Nest Many Elements within a Single div Element -->
 
 <h2>CatPhotoApp</h2>
 <main>
@@ -6,19 +6,22 @@
     <p>Click here to view more
         <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>.</p>
 
-    <p>Things cats love:</p>
-    <ul>
-        <li>Catnip</li>
-        <li>Laser Pointers</li>
-        <li>Toys</li>
-    </ul>
+    <div>
+        <p>Things cats love:</p>
+        <ul>
+            <li>Catnip</li>
+            <li>Laser Pointers</li>
+            <li>Toys</li>
+        </ul>
 
-    <p>Three things cats hate:</p>
-    <ol>
-        <li>Loud Noises</li>
-        <li>Empty kibble bowl</li>
-        <li>Vets</li>
-    </ol>
+        <p>Three things cats hate:</p>
+        <ol>
+            <li>Loud Noises</li>
+            <li>Empty kibble bowl</li>
+            <li>Vets</li>
+        </ol>
+    </div>
+
     <form action="/submit-cat-photo">
         <label for="indoor"> 
             <input id="indoor" value="indoor" type="radio" name="indoor-outdoor" checked>Indoor 
