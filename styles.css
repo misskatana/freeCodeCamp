@@ -1,6 +1,9 @@
-/* Set the line-height of Paragraphs */
+/* Adjust the Hover State of an Anchor Tag */
 
-p {
-    font-size: 16px;
-    line-height: 25px;
+a {
+    color: #000;
+}
+
+a:hover {
+    color: blue;
 }
