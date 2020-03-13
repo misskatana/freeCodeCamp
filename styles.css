@@ -1,4 +1,4 @@
-/* Use Clockwise Notation to Specify the Margins of an Element */
+/* Use Attribute Selectors to Style Elements */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
@@ -33,6 +33,10 @@ h2 {
 
 #cat-photo-form {
     background-color: green;
+}
+
+[type='checkbox'] {
+    margin: 10px 0px 15px 0px;
 }
 
 .injected-text {
