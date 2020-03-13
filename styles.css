@@ -1,19 +1,5 @@
-/* Override All Other Styles by using Important */
+/* Use Hex Code for Specific Colors */
 
 body {
     background-color: black;
-    font-family: monospace;
-    color: green;
-}
-
-.pink-text {
-    color: pink !important;
-}
-
-.blue-text {
-    color: blue;
-}
-
-#orange-text {
-    color: orange;
 }
