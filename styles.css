@@ -1,4 +1,4 @@
-/* Use Attribute Selectors to Style Elements */
+/* Understand Absolute versus Relative Units */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
@@ -59,7 +59,7 @@ h2 {
 .red-box {
     background-color: crimson;
     color: #fff;
-    padding: 20px 40px 20px 40px;
+    padding: 1.5em;
     margin: 20px 40px 20px 40px;
 }
 
