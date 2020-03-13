@@ -1,4 +1,4 @@
-/* Override Class Declarations with Inline Styles */
+/* Override All Other Styles by using Important */
 
 body {
     background-color: black;
@@ -7,7 +7,7 @@ body {
 }
 
 .pink-text {
-    color: pink;
+    color: pink !important;
 }
 
 .blue-text {
