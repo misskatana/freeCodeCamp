@@ -1,7 +1,8 @@
-/* Adjust the Width of an Element Using the width Property */
+/* Adjust the Height of an Element Using the height Property */
 
 h4 {
     text-align: center;
+    height: 25px;
 }
 
 p {
