@@ -1,4 +1,4 @@
-/* Set the id of an Element */
+/* Use an id Attribute to Style an Element */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
@@ -29,4 +29,8 @@ p {
 
 h2 {
     font-family: Lobster, monospace;
+}
+
+#cat-photo-form {
+    background-color: green;
 }
