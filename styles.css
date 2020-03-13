@@ -1,11 +1,16 @@
-/* Inherit Styles from the Body Element */
+/* Prioritize One Style Over Another */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
 
 body {
+    background-color: black;
     color: green;
     font-family: monospace;
+}
+
+.pink-text {
+    color: pink;
 }
 
 .red-text {
