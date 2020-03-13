@@ -1,7 +1,11 @@
-/* Move a Relatively Positioned Element with CSS Offsets */
+/* Lock an Element to its Parent with Absolute Positioning */
 
-h2 {
+#searchbar {
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+section {
     position: relative;
-    left: 15px;
-    bottom: 10px;
 }
