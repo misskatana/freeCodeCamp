@@ -1,10 +1,11 @@
-/* Style the HTML Body Element */
+/* Inherit Styles from the Body Element */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
 
 body {
-    background-color: black;
+    color: green;
+    font-family: monospace;
 }
 
 .red-text {
