@@ -1,9 +1,10 @@
-/* Adjust the background-color Property of Text */
+/* Adjust the Size of a Header Versus a Paragraph Tag */
 
 h4 {
     text-align: center;
     padding: 10px;
     background-color: rgba(45, 45, 45, 0.1);
+    font-size: 27px;
 }
 
 p {
