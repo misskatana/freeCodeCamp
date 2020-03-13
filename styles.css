@@ -1,4 +1,4 @@
-/* Adjust the Margin of an Element */
+/* Add a Negative Margin to an Element */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
@@ -56,12 +56,12 @@ h2 {
     background-color: crimson;
     color: #fff;
     padding: 20px;
-    margin: 20px;
+    margin: -15px;
 }
 
 .blue-box {
     background-color: blue;
     color: #fff;
     padding: 20px;
-    margin: 20px;
+    margin: -15px;
 }
