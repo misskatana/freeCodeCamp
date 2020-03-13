@@ -1,4 +1,4 @@
-/* Add a Negative Margin to an Element */
+/* Add Different Padding to Each Side of an Element */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
@@ -55,13 +55,19 @@ h2 {
 .red-box {
     background-color: crimson;
     color: #fff;
-    padding: 20px;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
     margin: -15px;
 }
 
 .blue-box {
     background-color: blue;
     color: #fff;
-    padding: 20px;
+    padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
     margin: -15px;
 }
