@@ -1,4 +1,4 @@
-/* Prioritize One Style Over Another */
+/* Override Styles in Subsequent CSS */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
@@ -11,6 +11,10 @@ body {
 
 .pink-text {
     color: pink;
+}
+
+.blue-text {
+    color: blue;
 }
 
 .red-text {
