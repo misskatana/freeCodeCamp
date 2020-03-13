@@ -1,8 +1,9 @@
-/* Create a Horizontal Line Using the hr Element */
+/* Adjust the background-color Property of Text */
 
 h4 {
     text-align: center;
-    height: 25px;
+    padding: 10px;
+    background-color: rgba(45, 45, 45, 0.1);
 }
 
 p {
