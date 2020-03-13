@@ -1,12 +1,9 @@
-/* Override Styles in Subsequent CSS */
-
-
-/* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
+/* Override Class Declarations by Styling ID Attributes */
 
 body {
     background-color: black;
-    color: green;
     font-family: monospace;
+    color: green;
 }
 
 .pink-text {
@@ -17,69 +14,6 @@ body {
     color: blue;
 }
 
-.red-text {
-    color: red;
-}
-
-.smaller-image {
-    width: 100px;
-}
-
-.thick-green-border {
-    border-color: green;
-    border-width: 10px;
-    border-style: solid;
-    border-radius: 50%;
-}
-
-.silver-background {
-    background-color: silver;
-}
-
-p {
-    font-size: 16px;
-    font-family: monospace;
-}
-
-h2 {
-    font-family: Lobster, monospace;
-}
-
-#cat-photo-form {
-    background-color: green;
-}
-
-[type='checkbox'] {
-    margin: 10px 0px 15px 0px;
-}
-
-.injected-text {
-    margin-bottom: -25px;
-    text-align: center;
-}
-
-.box {
-    border-style: solid;
-    border-color: black;
-    border-width: 5px;
-    text-align: center;
-}
-
-.yellow-box {
-    background-color: yellow;
-    padding: 10px;
-}
-
-.red-box {
-    background-color: crimson;
-    color: #fff;
-    padding: 1.5em;
-    margin: 20px 40px 20px 40px;
-}
-
-.blue-box {
-    background-color: blue;
-    color: #fff;
-    padding: 40px 20px 20px 40px;
-    margin: 40px 20px 20px 40px;
+#orange-text {
+    color: orange;
 }
