@@ -1,4 +1,4 @@
-/* Change the Font Size of an Element */
+/* Set the Font Family of an Element */
 
 .red-text {
     color: red;
@@ -6,4 +6,5 @@
 
 p {
     font-size: 16px;
+    font-family: monospace;
 }
