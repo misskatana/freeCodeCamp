@@ -1,35 +1,25 @@
-/* Use the text-transform Property to Make Text Uppercase */
+/* Set the font-size for Multiple Heading Elements */
+
+h1 {
+    font-size: 68px;
+}
+
+h2 {
+    font-size: 52px;
+}
+
+h3 {
+    font-size: 40px;
+}
 
 h4 {
-    text-align: center;
-    padding: 10px;
-    background-color: rgba(45, 45, 45, 0.1);
-    font-size: 27px;
-    text-transform: uppercase;
+    font-size: 32px;
 }
 
-p {
-    text-align: justify;
+h5 {
+    font-size: 21px;
 }
 
-.links {
-    margin-right: 20px;
-    color: black;
-    opacity: 0.7;
-}
-
-#thumbnail {
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
-}
-
-.fullCard {
-    width: 245px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    margin: 10px 5px;
-    padding: 4px;
-}
-
-.cardContent {
-    padding: 10px;
+h6 {
+    font-size: 14px;
 }
