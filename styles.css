@@ -1,4 +1,4 @@
-/* Create Visual Balance Using the text-align Property */
+/* Adjust the Width of an Element Using the width Property */
 
 h4 {
     text-align: center;
@@ -13,6 +13,7 @@ p {
 }
 
 .fullCard {
+    width: 245px;
     border: 1px solid #ccc;
     border-radius: 5px;
     margin: 10px 5px;
