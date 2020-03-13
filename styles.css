@@ -1,4 +1,4 @@
-/* Add a box-shadow to a Card-like Element */
+/* Decrease the Opacity of an Element */
 
 h4 {
     text-align: center;
@@ -13,6 +13,8 @@ p {
 
 .links {
     margin-right: 20px;
+    color: black;
+    opacity: 0.7;
 }
 
 #thumbnail {
