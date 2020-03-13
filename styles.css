@@ -1,4 +1,4 @@
-/* Size Your Images */
+/* Add Borders Around Your Elements */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
@@ -9,6 +9,12 @@
 
 .smaller-image {
     width: 100px;
+}
+
+.thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
 }
 
 p {
