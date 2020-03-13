@@ -1,5 +1,6 @@
-/* Set the font-size of Paragraph Text */
+/* Set the line-height of Paragraphs */
 
 p {
     font-size: 16px;
+    line-height: 25px;
 }
