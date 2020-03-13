@@ -1,7 +1,11 @@
-/* Understand Absolute versus Relative Units */
+/* Style the HTML Body Element */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
+
+body {
+    background-color: black;
+}
 
 .red-text {
     color: red;
