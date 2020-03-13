@@ -1,10 +1,14 @@
-/* Specify How Fonts Should Degrade */
+/* Size Your Images */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
 
 .red-text {
     color: red;
+}
+
+.smaller-image {
+    width: 100px;
 }
 
 p {
