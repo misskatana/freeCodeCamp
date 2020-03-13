@@ -1,6 +1,9 @@
-/* Import a Google Font */
+/* Specify How Fonts Should Degrade */
 
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">.red-text {
+
+/* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
+
+.red-text {
     color: red;
 }
 
@@ -10,5 +13,5 @@ p {
 }
 
 h2 {
-    font-family: Lobster;
+    font-family: Lobster, monospace;
 }
