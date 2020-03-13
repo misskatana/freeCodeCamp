@@ -1,4 +1,4 @@
-/* Add Borders Around Your Elements */
+/* Add Rounded Corners with border-radius */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
@@ -15,6 +15,7 @@
     border-color: green;
     border-width: 10px;
     border-style: solid;
+    border-radius: 10px;
 }
 
 p {
