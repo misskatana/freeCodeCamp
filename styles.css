@@ -1,4 +1,4 @@
-/* Use Clockwise Notation to Specify the Padding of an Element */
+/* Use Clockwise Notation to Specify the Margins of an Element */
 
 
 /* <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css"> */
@@ -56,18 +56,12 @@ h2 {
     background-color: crimson;
     color: #fff;
     padding: 20px 40px 20px 40px;
-    margin-top: 40px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-left: 40px;
+    margin: 20px 40px 20px 40px;
 }
 
 .blue-box {
     background-color: blue;
     color: #fff;
     padding: 40px 20px 20px 40px;
-    margin-top: 40px;
-    margin-right: 20px;
-    margin-bottom: 20px;
-    margin-left: 40px;
+    margin: 40px 20px 20px 40px;
 }
