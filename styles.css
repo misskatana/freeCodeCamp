@@ -1,11 +1,27 @@
-/* Lock an Element to its Parent with Absolute Positioning */
+/* Lock an Element to the Browser Window with Fixed Positioning */
 
-#searchbar {
-    position: absolute;
-    top: 50px;
-    right: 50px;
+body {
+    min-height: 150vh;
 }
 
-section {
-    position: relative;
+#navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: #767676;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 5px 0px 5px 30px;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+a {
+    text-decoration: none;
 }
