@@ -1,17 +1,21 @@
-/* Push Elements Left or Right with the float Property */
+/* Change the Position of Overlapping Elements with the z-index Property */
 
-#left {
-    float: left;
-    width: 50%;
+div {
+    width: 60%;
+    height: 200px;
+    margin-top: 20px;
 }
 
-#right {
-    float: right;
-    width: 40%;
+.first {
+    background-color: red;
+    position: absolute;
+    z-index: 2;
 }
 
-aside,
-section {
-    padding: 2px;
-    background-color: #ccc;
+.second {
+    background-color: blue;
+    position: absolute;
+    left: 40px;
+    top: 50px;
+    z-index: 1;
 }
